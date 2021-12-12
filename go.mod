@@ -1,3 +1,3 @@
-module github.com/jinkyaw/test-go-greetings
+module github.com/jinkyaw/testgogreetings
 
 go 1.17
